@@ -5,7 +5,7 @@
 This is a Pytorch implementaion on pedestrain detector modified from this [Repository](https://github.com/jwyang/faster-rcnn.pytorch.git).
 
 Implementation ideas come from [CityPersons: A Diverse Dataset for Pedestrian Detection
-](https://arxiv.org/abs/1702.05693).
+](https://arxiv.org/abs/1702.05693). We get the same missing rate 15.4% with the paper.
 
 
 # Usage
